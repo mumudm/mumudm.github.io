@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>木木说</title>
+  
+  <subtitle>天行健，君子以自强不息</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://mumudm.github.io/"/>
+  <updated>2019-12-12T03:40:08.588Z</updated>
+  <id>https://mumudm.github.io/</id>
+  
+  <author>
+    <name>mumudm</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown 数学公式</title>
+    <link href="https://mumudm.github.io/gongju/markdownshuxuegongshi/"/>
+    <id>https://mumudm.github.io/gongju/markdownshuxuegongshi/</id>
+    <published>2019-12-12T02:44:16.000Z</published>
+    <updated>2019-12-12T03:40:08.588Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h1 id=&quot;数学公式&quot;&gt;&lt;a href=&quot;#数学公式&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="https://mumudm.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="markdown" scheme="https://mumudm.github.io/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mac 环境配置</title>
+    <link href="https://mumudm.github.io/mac/machuanjingpeizhi/"/>
+    <id>https://mumudm.github.io/mac/machuanjingpeizhi/</id>
+    <published>2019-10-23T01:25:00.000Z</published>
+    <updated>2019-10-23T09:06:43.858Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;日常软件&quot;&gt;&lt;a href=&quot;#日常软件&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="mac" scheme="https://mumudm.github.io/categories/mac/"/>
+    
+    
+      <category term="配置" scheme="https://mumudm.github.io/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mac 配置</title>
+    <link href="https://mumudm.github.io/mac/macpeizhi/"/>
+    <id>https://mumudm.github.io/mac/macpeizhi/</id>
+    <published>2019-07-23T08:19:46.000Z</published>
+    <updated>2019-10-24T10:09:48.189Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h3 id=&quot;初始化配置&quot;&gt;&lt;a href=&quot;#初始化配置&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="mac" scheme="https://mumudm.github.io/categories/mac/"/>
+    
+    
+      <category term="配置" scheme="https://mumudm.github.io/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信 macOS 客户端撤回拦截与多开</title>
+    <link href="https://mumudm.github.io/soft/weixinmacoskehuduanchehuilanjieyuduokai/"/>
+    <id>https://mumudm.github.io/soft/weixinmacoskehuduanchehuilanjieyuduokai/</id>
+    <published>2019-07-23T08:12:09.000Z</published>
+    <updated>2019-12-23T04:21:19.078Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h1 id=&quot;微信-macOS-客户端撤回拦截与多开&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="soft" scheme="https://mumudm.github.io/categories/soft/"/>
+    
+    
+      <category term="soft" scheme="https://mumudm.github.io/tags/soft/"/>
+    
+      <category term="wechat" scheme="https://mumudm.github.io/tags/wechat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git 撤销操作</title>
+    <link href="https://mumudm.github.io/git/gitchexiaocaozuo/"/>
+    <id>https://mumudm.github.io/git/gitchexiaocaozuo/</id>
+    <published>2019-07-12T03:05:16.000Z</published>
+    <updated>2019-12-25T10:06:08.671Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;git-撤销-commit&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="git" scheme="https://mumudm.github.io/categories/git/"/>
+    
+    
+      <category term="git" scheme="https://mumudm.github.io/tags/git/"/>
+    
+      <category term="commit" scheme="https://mumudm.github.io/tags/commit/"/>
+    
+  </entry>
+  
+</feed>
