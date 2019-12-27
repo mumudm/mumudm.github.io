@@ -27,7 +27,7 @@ after_script:
   - git add .
   # date +"%Y-%m-%d %H:%M".
   - git commit -m "auto deploy by TravisCI 0。0"
-  - git push --force --quiet "https://mumudm:53784f9b88ddc4fdb9542ae80c7ea764dc3edb99@github.com/mumudm/mumudm.github.io.git" master
+  - git push --force --quiet "https://mumudm:83249d2c853dc09f3b6379d9fef138cd3d58fbdd@github.com/mumudm/mumudm.github.io.git" master
 
 branches:
   only:
