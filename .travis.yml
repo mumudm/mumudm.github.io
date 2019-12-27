@@ -79,7 +79,7 @@ after_script:
   - git config user.email "liangpengjiedm@gmail.com"
   - git add .
   - git commit -m "date +"%Y-%m-%d %H:%M"`. auto deploy by TravisCI 0。0"
-  - git push --force --quiet "https://b591cfe75c0f0c819cfe3d68c20d56df9d6e6563@github.com/mumudm/mumudm.github.io" master:master
+  - git push --force --quiet "https://${ACCESS_TOKEN}@github.com/mumudm/mumudm.github.io" master:master
 
 branches:
   only:
