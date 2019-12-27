@@ -30,19 +30,6 @@ script:
   - hexo clean
   - hexo generate
 
-## 部署方式一,这里是 hexo 官方文档给出的部署方式
-# deploy:
-#   provider: pages
-#   skip_cleanup: true
-#   github_token: $ACCESS_TOKEN  #访问 token，该变量在 Travis 中设置，下面会介绍
-#   keep_history: true
-#   on:
-#     branch: hexo
-#   email: youremail  #设置 commit 的邮箱
-#   name: yourname   #设置 commit 的用户名
-#   target_branch: master  # 设置部署的目标分支
-#   local-dir: public  #将 public 中的内容部署到 master 分支，如果没有此项配置，会把所有的源文件部署到 master 分支，而不是 hexo g 后生成的静态文件。（hexo g 后的静态页面文件存放在 public 目录下）
-
 ## 部署方式二，网上大多数人采用的是这种方式部署
 after_script:
   - git clone ${GH_REF_SSH} .deploy_git #先拉取项目，取得历史提交记录
