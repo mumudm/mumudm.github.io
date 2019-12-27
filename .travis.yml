@@ -25,7 +25,8 @@ after_script:
   - git config user.name "mumudm"
   - git config user.email "liangpengjiedm@gmail.com"
   - git add .
-  - git commit -m "date +"%Y-%m-%d %H:%M". auto deploy by TravisCI 0。0"
+  # date +"%Y-%m-%d %H:%M".
+  - git commit -m "auto deploy by TravisCI 0。0"
   - git push --force --quiet "https://53784f9b88ddc4fdb9542ae80c7ea764dc3edb99@github.com/mumudm/mumudm.github.io" master:master
 
 branches:
