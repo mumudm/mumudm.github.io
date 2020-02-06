@@ -134,8 +134,8 @@ lazyload:
   loadingImg: /medias/loading.png
 
 ## 脚标插件
-#plugins:
-#  - hexo-reference
+Plugins:
+  - hexo-reference
 
 # 外链自动添加 rel="external nofollow noreferrer" 属性，从而 改善你的网站的安全性和 SEO。
 nofollow:
