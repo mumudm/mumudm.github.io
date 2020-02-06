@@ -131,7 +131,7 @@ feed:
 lazyload:
   enable: true
   onlypost: false
-  loadingImg: /medias/loading.png
+  loadingImg: /medias/loading.gif
 
 ## 脚标插件
 Plugins:
@@ -145,3 +145,8 @@ nofollow:
   exclude:
     - 'exclude1.com'
     - 'exclude2.com'
+mermaid: ## mermaid url https://github.com/knsv/mermaid
+  enable: true  # default true
+  version: "8.4.6" # default v7.1.2
+  options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
+  #startOnload: true  // default true
