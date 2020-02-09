@@ -7,11 +7,13 @@ top: false
 password: 
 toc: false
 mathjax: false
-summary: 今天重装了 Mac 系统，记录下环境配置及常用软件
+summary: 
 categories: mac
 tags:
   - 配置
 ---
+
+> 今天重装了 Mac 系统，记录下环境配置及常用软件
 
 ## 日常软件
 

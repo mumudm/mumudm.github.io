@@ -8,7 +8,7 @@ coverImg:
 comment: false
 tags:
   - SpringMVC
-summary: 在使用 SpringMVC 上传文件时，接收到的文件格式为 `MultipartFile`，但是在很多场景下使用都需要`File`格式的文件，记录下以便日后使用。
+summary: 
 password:
 categories: Java
 ---
