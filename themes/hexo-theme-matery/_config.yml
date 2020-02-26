@@ -16,6 +16,9 @@ menu:
   About:
     url: /about
     icon: fas fa-user-circle
+  网盘:
+    url: https://mumudm.github.io/driver-oneindex/#/
+    icon: fas fa-download
   # Contact:
   #   url: /contact
   #   icon: fas fa-comments
