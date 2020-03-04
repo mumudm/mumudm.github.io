@@ -1,17 +1,18 @@
 ---
 title: git 撤销操作
-img: 
 top: true
 cover: false
-coverImg: 
 comment: false
 tags:
   - git
   - commit
+categories: git
+abbrlink: 33105
 date: 2019-07-12 11:05:16
+img:
+coverImg:
 summary:
 password:
-categories: git
 ---
 
 ## git 撤销 commit

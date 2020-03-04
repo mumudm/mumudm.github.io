@@ -1,16 +1,17 @@
 ---
 title: mac 环境配置
-date: 2019-10-23 09:25:00
 author: 木木
-img: https://i.loli.net/2019/10/23/h8tguNIFjP2Ed4K.jpg
+img: 'https://i.loli.net/2019/10/23/h8tguNIFjP2Ed4K.jpg'
 top: false
-password: 
 toc: false
 mathjax: false
-summary: 
 categories: mac
 tags:
   - 配置
+abbrlink: 22258
+date: 2019-10-23 09:25:00
+password:
+summary:
 ---
 
 > 今天重装了 Mac 系统，记录下环境配置及常用软件

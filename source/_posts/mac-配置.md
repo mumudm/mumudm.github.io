@@ -5,12 +5,13 @@ cover: false
 comment: true
 tags:
   - 配置
+categories: mac
+abbrlink: 47584
 date: 2019-07-23 16:19:46
 img:
 coverImg:
 summary:
 password:
-categories: mac
 ---
 
 ### 初始化配置

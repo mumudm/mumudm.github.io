@@ -1,17 +1,18 @@
 ---
 title: markdown 语法测试
-img: https://cdn.jsdelivr.net/gh/liangpengjie/mumuimgs/20200206210519.png
+img: 'https://cdn.jsdelivr.net/gh/liangpengjie/mumuimgs/20200206210519.png'
 top: false
 cover: false
-coverImg: 
 comment: false
 tags:
   - markdown
-date: 2020-02-06 11:05:16
 mathjax: true
-summary: markdown mermaid 语法,脚标测试
-password:
+summary: 'markdown mermaid 语法,脚标测试'
 categories: 工具
+abbrlink: 45641
+date: 2020-02-06 11:05:16
+coverImg:
+password:
 ---
 
 # markdown mermaid 语法

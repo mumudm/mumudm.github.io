@@ -6,12 +6,13 @@ comment: true
 tags:
   - soft
   - wechat
+categories: soft
+abbrlink: 26386
 date: 2019-07-23 16:12:09
 img:
 coverImg:
 summary:
 password:
-categories: soft
 ---
 
 # 微信 macOS 客户端撤回拦截与多开

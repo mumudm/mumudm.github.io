@@ -16,7 +16,7 @@ timezone:
 #url: liangpengjie.github.io
 url: https://mumudm.github.io/
 root: /
-permalink: :category/:title/
+permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -30,7 +30,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: 404.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -113,7 +113,7 @@ search:
 
 # 中文链接转拼音
 permalink_pinyin:
-  enable: true
+  enable: false
   separator: '' # default: '-'
 
 # rss
@@ -145,8 +145,14 @@ nofollow:
   exclude:
     - 'exclude1.com'
     - 'exclude2.com'
+
 mermaid: ## mermaid url https://github.com/knsv/mermaid
   enable: true  # default true
   version: "8.4.6" # default v7.1.2
   options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
   #startOnload: true  // default true
+
+# hexo-abbrlink config 、固定文章地址插件
+abbrlink:
+  alg: crc32  #算法选项：crc16、crc32，区别见之前的文章，这里默认为crc16丨crc32比crc16复杂一点，长一点
+  rep: hex    #输出进制：十进制和十六进制，默认为10进制。丨dec为十进制，hex为十六进制

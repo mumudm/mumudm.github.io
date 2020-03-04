@@ -1,17 +1,18 @@
 ---
 title: markdown 数学公式
-img: 
-top:  false
+top: false
 cover: false
-coverImg: 
 comment: false
 tags:
   - markdown
-date: 2019-12-12 10:44:16
 summary: Markdown 数学公式语法
-password:
 mathjax: true
 categories: 工具
+abbrlink: 6702
+date: 2019-12-12 10:44:16
+img:
+coverImg:
+password:
 ---
 
 # 数学公式
