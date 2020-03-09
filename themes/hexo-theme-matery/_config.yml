@@ -16,9 +16,15 @@ menu:
   About:
     url: /about
     icon: fas fa-user-circle
-  网盘:
-    url: https://mumudm.github.io/driver-oneindex/#/
-    icon: fas fa-download
+  driver:
+    icon: fas fa-cloud-download-alt"
+    children:
+      - name: One Driver
+        url: https://mumudm.github.io/driver-oneindex/#/
+        icon: fas fa-cloud
+      - name: Google Driver
+        url: https://gd.mumudm.workers.dev
+        icon: fab fa-google-drive
   # Contact:
   #   url: /contact
   #   icon: fas fa-comments
